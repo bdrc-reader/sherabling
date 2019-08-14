@@ -5,7 +5,6 @@
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/sherabling/master/docs/img/sherabling.jpg)
 
 <br>
-<br>
 
 # ཤེས་རབ་གླིང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
