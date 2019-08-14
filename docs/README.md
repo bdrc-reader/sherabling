@@ -1,13 +1,13 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/sherabling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sherabling/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/sherabling/sungbum">ཞེ་ཆེན་དགོན་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/sherabling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/sherabling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/sherabling/natsok">སྣ་ཚོགས།</a></p>
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/sherabling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sherabling/shunglug">གཞུང་ལུགས།</a>  • <a href="https://bdrc-reader.github.io/sherabling/sungbum">ཤེས་རབ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/sherabling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/sherabling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/sherabling/natsok">སྣ་ཚོགས།</a></p>
 
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/shechen/master/docs/img/Capture.PNG)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/sherabling/master/docs/img/Capture.PNG)
 
 <br>
 <br>
 
-# ཞེ་ཆེན་དགོན་གྱི་ངོ་སྤྲོད་མདོར་བསྡུས།
+# ཤེས་རབ་གླིང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
 
 
