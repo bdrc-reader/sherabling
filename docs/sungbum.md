@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/sherabling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sherabling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <a href="https://bdrc-reader.github.io/sherabling/shunglug">གཞུང་ལུགས།</a>  • <span>ཤེས་རབ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</span> • <a href="https://bdrc-reader.github.io/sherabling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/sherabling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/sherabling/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/sherabling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sherabling/shadra">བཤད་གྲྭ།</a> • <a href="https://bdrc-reader.github.io/sherabling/yigcha">ཡིག་ཆ།</a>  • <a href="https://bdrc-reader.github.io/sherabling/sorigdurawa">གསོ་རིག་བསྡུས་ར་བ།</a> • <a href="https://bdrc-reader.github.io/sherabling/tzirigdurawa\">རྩིས་རིག་བསྡུས་ར་བ།</a> • <span>གསུང་འབུམ།</span></p>
 
 
-# ཤེས་རབ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# གསུང་འབུམ་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0013003&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0013006&origin=website.com" width="100%" height="600%"></iframe>
 
 <br>
 <br>
