@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/sherabling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sherabling/shadra">བཤད་གྲྭ།</a> • <span>དཔལ་སྤུངས་པར་མ།</span>  • <a href="https://bdrc-reader.github.io/sherabling/sorig">གསོ་རིག</a> • <a href="https://bdrc-reader.github.io/sherabling/tzirig">རྩིས་རིག</a> • <a href="https://bdrc-reader.github.io/sherabling/sungbum\">གསུང་འབུམ།</a></p>
+  <a href="https://bdrc-reader.github.io/sherabling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/sherabling/shadra">བཤད་གྲྭ།</a> • <span>དཔལ་སྤུངས་པར་མ།</span>  • <a href="https://bdrc-reader.github.io/sherabling/sorig">གསོ་རིག</a> • <a href="https://bdrc-reader.github.io/sherabling/tzirig">རྩིས་རིག</a> • <a href="https://bdrc-reader.github.io/sherabling/sungbum">གསུང་འབུམ།</a></p>
 
 # འདོན་ཆའི་སྐོར་གྱི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
