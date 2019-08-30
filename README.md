@@ -29,7 +29,7 @@
 
 <br>
 
-![images](https://github.com/bdrc-reader/sherabling/blob/master/docs/img/02.png)
+![images](https://github.com/bdrc-reader/sherabling/blob/master/docs/img/02.PNG)
 
 <br>
 
